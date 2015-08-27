@@ -1,0 +1,6 @@
+include ':Template', ':library', ':'
+project(':Template').projectDir = new File('TemplateAREL')
+include ':MetaioSDK'
+project(':MetaioSDK').projectDir = new File('metaioSDK')
+
+include ':vision_sdk'

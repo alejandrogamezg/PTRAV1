@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_e9c902715813e29f63535a948c78dc4f.zip">
+  <arel><![CDATA[html/index.html?55c7b189135b71765cd33314403b862d]]></arel>
+  <object id="model1">
+    <title><![CDATA[pumpkin]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/6ad15ed599133f46ecfe77227348bc2e/6ad15ed599133f46ecfe77227348bc2e.zip]]></model>
+      <transform>
+        <translation>
+          <x>-5.7037649155</x>
+          <y>19.0108394623</y>
+          <z>6.0390706062</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.9084418416</x>
+          <y>0.9084418416</y>
+          <z>0.9084418416</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>2</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="video2">
+    <title><![CDATA[Comparacion del Tamaño de los Planetas HD.]]></title>
+    <assets3d>
+      <movie><![CDATA[html/resources/cf6ee7bdfb9c4245fbe8b0b60ce9898b/videoGood.3g2]]></movie>
+      <transform>
+        <translation>
+          <x>9.83644104</x>
+          <y>18.2812156677</y>
+          <z>2.581007719</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>4.6260204315</x>
+          <y>4.6260204315</y>
+          <z>1.0</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>

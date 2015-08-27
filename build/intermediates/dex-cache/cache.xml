@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-add36614f15639eadef6f6137864f7a1f842e719.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-65068db6fa91a15c251ac85bc037755bed6676e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-8deed3f805db0bc6c5bc5b0b60cbf65e2ebb25eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-81a406c184715453efbbb8e562ac71a6112c0aba.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-6cb6b3e893ca79d335ce8a17c4d0b342f89f30fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-4889e312602f8875cc3b5f652fc8510dcdb62de5.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-85b1f67f08624e567df3230b16294df5badc02f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-af9b2e45324d03532a44527f84058a067740843f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\PruebasAplicacion\vision_sdk\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="348310fd4498844e50aac4cdc38372b473622b80">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-b529b0b297f93ae634ecd08cecea481f4f3dd6e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\PruebasAplicacion\MetaioSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="aad995f741fc24a5ecb55b6ee818f16c92d21665">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-7cb07a75527f68405fd980bead0bf92aaf029020.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-c1683771e191fba584d822333d58ca4e8eca4f5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-bb2ffd755f349ca98c13d78eaea649bf7af8d696.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\PruebasAplicacion\MetaioSDK\unspecified\libs\metaiosdk.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c8d9e3d40ae2b65f4ef4adf7ddc62e484388b37">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\metaiosdk-5df83a60da903e7fa673256bfccd2db685022866.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-fc0fb9ad639e44a6c504f9afaa38f9a573a59014.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-29f43bd01f027fa6285bb0d8c9478819a689a89d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-2f69291470262b0bdfffef95c17ba351c926c4c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-dc17ab0f5d94b7936e47dbe40df807603ae596fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-fafe565cdaf0a94263b25754c22102d436829712.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e499dc11d2f794676bb861bb72780bd7e789d1e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-ab043b75ca5f7c579a2b8263e759da72a13b5684.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-3eff0d75a95771f9a9f46c277a6055631e254daa.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-adac35eab64663dcef4c2a58d0c1561cbd6373a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-b86b0d718531e6424d79c4746cd96b15f87a1bab.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\classes-502fd94e00ffb9e6e7422f6bcda86cb78cb738e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\exploded-aar\PruebasAplicacion\vision_sdk\unspecified\libs\20130405-GM-LIB-Vision_SDK_ofuscated-v1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e99f49f7a913f800a5f215acad24a60dcf4dc1c6">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\20130405-GM-LIB-Vision_SDK_ofuscated-v1.0-598d097f3e7034ab17039a99119bb2e2b3cb255a.jar" />
+    </item>
+    <item
+        jar="C:\Users\PC07\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\PC07\Desktop\SERVICIO SOCIAL\PruebasAplicacion\TemplateAREL\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-80260023758096f0565155b508a954e9f3d349fb.jar" />
+    </item>
+
+</items>

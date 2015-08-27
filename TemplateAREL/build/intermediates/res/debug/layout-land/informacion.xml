@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="580dp"
+        android:gravity="center"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout3">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Nombre: "
+            android:gravity="center"
+            android:id="@+id/lbNombre"
+            android:layout_marginStart="105dp"
+            android:layout_above="@+id/lbUbicacion"
+            android:layout_alignParentStart="true"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Ubicación: "
+            android:gravity="center"
+            android:id="@+id/lbUbicacion"
+            android:layout_above="@+id/lbInaguracion"
+            android:layout_alignStart="@+id/lbNombre"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Inaguración: "
+            android:gravity="center"
+            android:id="@+id/lbInaguracion"
+            android:layout_above="@+id/lbGobernador"
+            android:layout_alignStart="@+id/lbUbicacion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Gobernador: "
+            android:gravity="center"
+            android:id="@+id/lbGobernador"
+            android:layout_above="@+id/lbDescripcion"
+            android:layout_alignStart="@+id/lbInaguracion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Descripcón: "
+            android:id="@+id/lbDescripcion"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:layout_centerVertical="true"
+            android:layout_alignStart="@+id/lbGobernador" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Escultor: "
+            android:gravity="center"
+            android:id="@+id/lbEscultor"
+            android:textColor="#000000"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/lbDescripcion" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="ID: "
+            android:id="@+id/lbId"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:layout_above="@+id/lbNombre"
+            android:layout_alignStart="@+id/lbNombre" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="500dp"
+        android:id="@+id/relativeLayout"
+        android:layout_alignBottom="@+id/linearLayout3"
+        android:layout_toEndOf="@+id/linearLayout3"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtDescripcion"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_below="@+id/txtGobernador"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/txtEscultor" />
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtNombre"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_below="@+id/idDatos"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtUbicacion"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_below="@+id/txtNombre"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtInaguracion"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_below="@+id/txtUbicacion"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtGobernador"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_below="@+id/txtInaguracion"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtEscultor"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true" />
+
+        <TextView
+            android:layout_width="1000dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/idDatos"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#eed043"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="70dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="100dp"
+        android:layout_height="500dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/linearLayout4"
+        android:layout_below="@+id/linearLayout3">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vision RA"
+            android:id="@+id/btnRA"
+            android:layout_marginLeft="0dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="489dp" />
+    </RelativeLayout>
+</RelativeLayout><!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/layout-land/informacion.xml -->

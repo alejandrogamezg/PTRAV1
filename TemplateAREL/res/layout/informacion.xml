@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="580dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/linearLayout3">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Nombre: "
+            android:id="@+id/lbNombre"
+            android:layout_marginStart="105dp"
+            android:layout_above="@+id/lbUbicacion"
+            android:layout_alignParentStart="true"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Ubicación: "
+            android:id="@+id/lbUbicacion"
+            android:layout_above="@+id/lbInaguracion"
+            android:layout_alignStart="@+id/lbNombre"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Inaguración: "
+            android:id="@+id/lbInaguracion"
+            android:layout_above="@+id/lbGobernador"
+            android:layout_alignStart="@+id/lbUbicacion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Gobernador: "
+            android:id="@+id/lbGobernador"
+            android:layout_above="@+id/lbDescripcion"
+            android:layout_alignStart="@+id/lbInaguracion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Descripcón: "
+            android:id="@+id/lbDescripcion"
+            android:layout_centerVertical="true"
+            android:layout_alignStart="@+id/lbGobernador"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Escultor: "
+            android:id="@+id/lbEscultor"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/lbDescripcion"
+            android:layout_marginBottom="62dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtDescripcion"
+            android:layout_below="@+id/lbGobernador"
+            android:layout_toEndOf="@+id/lbGobernador"
+            android:layout_above="@+id/lbEscultor" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtNombre"
+            android:layout_alignTop="@+id/lbNombre"
+            android:layout_alignStart="@+id/txtDescripcion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtUbicacion"
+            android:layout_below="@+id/txtNombre"
+            android:layout_toEndOf="@+id/lbInaguracion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtInaguracion"
+            android:layout_above="@+id/lbGobernador"
+            android:layout_alignStart="@+id/txtUbicacion"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtGobernador"
+            android:layout_above="@+id/txtDescripcion"
+            android:layout_toEndOf="@+id/lbGobernador"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtEscultor"
+            android:layout_alignBottom="@+id/lbEscultor"
+            android:layout_alignStart="@+id/txtDescripcion"
+            android:textColor="#000000" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="100dp"
+        android:layout_height="500dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/linearLayout4"
+        android:layout_below="@+id/linearLayout3">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vision RA"
+            android:id="@+id/btnRA"
+            android:layout_marginLeft="0dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>
