@@ -2,4 +2,4 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="#88000000"/> 
     <corners android:radius="2dp" />
-</shape><!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/vision_sdk/src/main/res/drawable/vision_corner_option_selected.xml --><!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/vision_sdk/unspecified/res/drawable/vision_corner_option_selected.xml -->
+</shape><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/vision_sdk/src/main/res/drawable/vision_corner_option_selected.xml --><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/vision_sdk/unspecified/res/drawable/vision_corner_option_selected.xml -->

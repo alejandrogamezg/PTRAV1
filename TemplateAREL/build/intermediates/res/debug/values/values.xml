@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <bool name="isTablet">false</bool>
     <color name="button_pressed_background">#33000000</color>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_colors.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
@@ -16,7 +16,7 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="listViewBackground">#FFECECEC</color>
     <color name="listViewText">#FF282828</color>
@@ -29,7 +29,7 @@
     <color name="toastBorder">#EE777777</color>
     <color name="toastText">#FFF</color>
     <color name="transparent">#00000000</color>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_colors.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_colors.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
@@ -50,7 +50,7 @@
     <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="liteMode"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/><attr format="boolean" name="uiMapToolbar"/></declare-styleable>
     <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
     <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="audioButton" type="id"/>
     <item name="callButton" type="id"/>
@@ -59,10 +59,10 @@
     <item name="imageButton" type="id"/>
     <item name="routeButton" type="id"/>
     <item name="videoButton" type="id"/>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/version.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">7095000</integer>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="BTN_ACCEPT">Accept</string>
     <string name="BTN_ADD">Add</string>
@@ -334,10 +334,10 @@
     <string name="MSG_TITLE_USERS_NOT_FOUND">No users found</string>
     <string name="MSG_TITLE_VALIDATION_ERROR">Validation error</string>
     <string name="MSG_TITLE_WARNING">Warning</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">PTRAv1</string>
     <string name="button1_en">Button 1</string>
@@ -349,7 +349,7 @@
     <string name="close_en">Exit</string>
     <string name="close_es">Salir</string>
     <string name="close_pt">Sair</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
@@ -383,18 +383,18 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="commono_google_play_services_api_unavailable_text">This app requires one or more Google Play services that are not currently
 available. Please contact the developer for assistance.</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/vision_sdk/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/vision_sdk/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="map_key"/>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/signature.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/signature.xml -->
     <eat-comment/>
     <string name="metaioSDKSignature">EXT+mQD2GgQU2mvamqw2CYsh+lAyoWmfmoniyC5Yr9Q=</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/strings.xml -->
     <eat-comment/>
     <string name="option1_en">Option 1</string>
     <string name="option1_es">Opción 1</string>
@@ -405,11 +405,11 @@ available. Please contact the developer for assistance.</string>
     <string name="option3_en">Option 3</string>
     <string name="option3_es">Opción 3</string>
     <string name="option3_pt">Opção 3</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/vision_sdk/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/vision_sdk/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="vision_address_not_found_ca">Direcció no trobada</string>
     <string name="vision_address_not_found_en">Address not found</string>
@@ -431,10 +431,10 @@ available. Please contact the developer for assistance.</string>
     <string name="vision_gps_error_es">Precisión \u00B1</string>
     <string name="vision_gps_error_fr">Précision \u00B1</string>
     <string name="vision_gps_error_pt">Precisão \u00B1</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/strings.xml -->
     <eat-comment/>
     <string name="vision_key"/>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/vision_sdk/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/vision_sdk/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="vision_loading_ca">Carregant...</string>
     <string name="vision_loading_en">Loading...</string>
@@ -541,10 +541,10 @@ available. Please contact the developer for assistance.</string>
     <string name="vision_view5_es">Mapa</string>
     <string name="vision_view5_fr">Plan</string>
     <string name="vision_view5_pt">Mapa</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_strings.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="POIButton" parent="android:style/Widget.Button">
         <item name="android:textSize">16sp</item>
@@ -555,21 +555,21 @@ available. Please contact the developer for assistance.</string>
     <style name="POIButton.POIActionButton">
         <item name="android:background">@color/transparent</item>
     </style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/theme.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/theme.xml -->
     <eat-comment/>
     <style name="Theme.FullScreen" parent="android:Theme">
         <item name="android:windowBackground">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
     </style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.Fullscreen" parent="android:Theme">
         <item name="android:windowBackground">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">false</item>
     </style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_iap_style.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/res/values/admob_iap_style.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
@@ -579,26 +579,26 @@ available. Please contact the developer for assistance.</string>
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/PruebasAplicacion/MetaioSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/PTRAV1/MetaioSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.POIDialog" parent="android:style/Theme.Dialog">
         <item name="android:windowBackground">@color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">false</item>
     </style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/theme.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/theme.xml -->
     <eat-comment/>
     <style name="Theme.Translucent" parent="android:style/Theme.Translucent">  
     	<item name="android:windowBackground">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
     </style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/values/styles.xml -->
     <eat-comment/>
     <style name="VisionTheme" parent="@android:style/Theme.Dialog">
         <item name="android:windowBackground">@drawable/vision_dialog_background</item>
 	</style>
-    <!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_styles.xml -->
+    <!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/res/values/wallet_styles.xml -->
     <eat-comment/>
     <style name="WalletFragmentDefaultButtonTextAppearance">
         <item name="android:textColor">@color/wallet_primary_text_holo_light</item>

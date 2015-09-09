@@ -15,7 +15,7 @@ ADDED from AndroidManifest.xml:1:1
 		ADDED from AndroidManifest.xml:3:5
 uses-sdk
 ADDED from AndroidManifest.xml:7:5
-MERGED from PruebasAplicacion:MetaioSDK:unspecified:7:5
+MERGED from PTRAV1:MetaioSDK:unspecified:7:5
 MERGED from com.android.support:support-v4:22.0.0:20:5
 MERGED from com.android.support:support-v4:22.0.0:20:5
 MERGED from com.google.android.gms:play-services:7.0.0:18:5
@@ -96,7 +96,7 @@ MERGED from com.android.support:support-v4:22.0.0:20:5
 MERGED from com.google.android.gms:play-services-wearable:7.0.0:18:5
 MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
 MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from PruebasAplicacion:vision_sdk:unspecified:7:5
+MERGED from PTRAV1:vision_sdk:unspecified:7:5
 	android:targetSdkVersion
 		ADDED from AndroidManifest.xml:9:9
 	android:minSdkVersion
@@ -386,12 +386,12 @@ ADDED from AndroidManifest.xml:127:9
 	android:name
 		ADDED from AndroidManifest.xml:127:19
 supports-screens
-ADDED from PruebasAplicacion:vision_sdk:unspecified:11:5
+ADDED from PTRAV1:vision_sdk:unspecified:11:5
 	android:largeScreens
-		ADDED from PruebasAplicacion:vision_sdk:unspecified:12:9
+		ADDED from PTRAV1:vision_sdk:unspecified:12:9
 	android:normalScreens
-		ADDED from PruebasAplicacion:vision_sdk:unspecified:13:9
+		ADDED from PTRAV1:vision_sdk:unspecified:13:9
 	android:xlargeScreens
-		ADDED from PruebasAplicacion:vision_sdk:unspecified:15:9
+		ADDED from PTRAV1:vision_sdk:unspecified:15:9
 	android:smallScreens
-		ADDED from PruebasAplicacion:vision_sdk:unspecified:14:9
+		ADDED from PTRAV1:vision_sdk:unspecified:14:9

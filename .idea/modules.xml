@@ -3,11 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/metaioSDK/MetaioSDK.iml" filepath="$PROJECT_DIR$/metaioSDK/MetaioSDK.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PruebasAplicacion.iml" filepath="$PROJECT_DIR$/PruebasAplicacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PTRAV1.iml" filepath="$PROJECT_DIR$/PTRAV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateAREL/Template.iml" filepath="$PROJECT_DIR$/TemplateAREL/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/vision_sdk/vision_sdk.iml" filepath="$PROJECT_DIR$/vision_sdk/vision_sdk.iml" />
     </modules>
   </component>
 </project>
-

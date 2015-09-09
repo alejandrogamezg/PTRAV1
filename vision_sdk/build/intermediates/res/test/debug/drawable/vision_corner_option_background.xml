@@ -3,4 +3,4 @@
     <item android:drawable="@drawable/vision_corner_option_selected"
           android:state_pressed="true" />
 </selector>
-<!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/vision_sdk/src/main/res/drawable/vision_corner_option_background.xml --><!-- From: file:/C:/Users/PC07/Desktop/SERVICIO%20SOCIAL/PruebasAplicacion/vision_sdk/build/intermediates/bundles/debug/res/drawable/vision_corner_option_background.xml -->
+<!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/vision_sdk/src/main/res/drawable/vision_corner_option_background.xml --><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/vision_sdk/build/intermediates/bundles/debug/res/drawable/vision_corner_option_background.xml -->
