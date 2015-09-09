@@ -37,6 +37,7 @@ public class Activity_Lugares extends Activity implements OnClickListener {
 
     }
 //nuevo comentario
+    //segundo comentario
     @Override
     public void onClick(View v) {
         switch (v.getId()){
