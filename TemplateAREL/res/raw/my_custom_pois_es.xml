@@ -1,59 +1,50 @@
 <pois>
-    <icons>
+    <!-- CONTIENE LOS LUGARES DISPONIBLES PARA MOSTRAR EN EL MAPA-->
+	<icons>
     </icons>
-	<poi poiIDStr="0001"
-        poiLatitudeDouble="18.492596"
-        poiLongitudeDouble="-88.297236"
-        poiTitleStr="Monumento a la Bandera"
-        poiURLStr="http://elvalordelonuestro.blogspot.mx/2013/08/monumentos-y-personajes-celebres-de.html"
-        poiSubtitleStr="Explanada del Palacio de Gobierno,Bahía de Chetumal"
-        poiRating="1">
-		<categories>
-			<category poiCategoryIDStr="0001" />
+    <poi poiIDStr="0001"
+        poiLatitudeDouble="18.492573"
+        poiLongitudeDouble="-88.297195"
+        poiTitleStr="Explanada de la Bandera"
+        poiURLStr=""
+        poiSubtitleStr="Boulevard Bahía, Centro, Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
         </categories>
-	</poi>
-	<poi poiIDStr="0001"
-        poiLatitudeDouble="18.493029"
-        poiLongitudeDouble="-88.294944"
-        poiTitleStr="Monumento al Pescador"
-        poiURLStr="http://elvalordelonuestro.blogspot.mx/2013/08/monumentos-y-personajes-celebres-de.html"
-        poiSubtitleStr="Boulevard Bahia, Chetumal"
-        poiRating="2">
-		<categories>
-			<category poiCategoryIDStr="0001" />
+    </poi>
+    <poi poiIDStr="0002"
+        poiLatitudeDouble="18.492915"
+        poiLongitudeDouble="-88.294930"
+        poiTitleStr="Monumento Al Pescador"
+        poiURLStr=""
+        poiSubtitleStr="Boulevard Bahía, Centro, Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
         </categories>
-	</poi>
-	<poi poiIDStr="0001"
-        poiLatitudeDouble="18.503373"
-        poiLongitudeDouble="-88.295612"
-        poiTitleStr="Monumento a Chetumal"
-        poiURLStr="http://elvalordelonuestro.blogspot.mx/2013/08/monumentos-y-personajes-celebres-de.html"
-        poiSubtitleStr="Av.Heroes"
-        poiRating="3">
-		<categories>
-			<category poiCategoryIDStr="0001" />
+    </poi>
+    <poi poiIDStr="0003"
+        poiLatitudeDouble="18.517455"
+        poiLongitudeDouble="-88.381414"
+        poiTitleStr="Monumento Cuna Al Meztizaje"
+        poiURLStr=""
+        poiSubtitleStr="Villahermosa - Chetumal/México 186."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
         </categories>
-	</poi>
-	<poi poiIDStr="0001"
-        poiLatitudeDouble="18.512326"
-        poiLongitudeDouble="-88.356391"
-        poiTitleStr="Monumento a Andrés Quintana Roo"
-        poiURLStr="http://elvalordelonuestro.blogspot.mx/2013/08/monumentos-y-personajes-celebres-de.html"
-        poiSubtitleStr="Av.Álvaro Obregón e Insurgentes."
-        poiRating="4">
-		<categories>
-			<category poiCategoryIDStr="0001" />
+    </poi>
+    <poi poiIDStr="0004"
+        poiLatitudeDouble="18.493939"
+        poiLongitudeDouble=" -88.302551"
+        poiTitleStr="Monumento A Jannet"
+        poiURLStr=""
+        poiSubtitleStr="Parque del Renacimiento,Boulevard Bahía,Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
         </categories>
-	</poi>
-	<poi poiIDStr="0001"
-        poiLatitudeDouble="18.493949"
-        poiLongitudeDouble="-88.302608"
-        poiTitleStr="Monumento al Renacimiento"
-        poiURLStr="http://elvalordelonuestro.blogspot.mx/2013/08/monumentos-y-personajes-celebres-de.html"
-        poiSubtitleStr="Boulevard Bahia, Chetumal."
-        poiRating="5">
-		<categories>
-			<category poiCategoryIDStr="0001" />
-        </categories>
-	</poi>
+    </poi>
+
 </pois>

@@ -72,12 +72,6 @@
             android:value="AIzaSyBIfr7ES6VVpQpPQyNrjhLrrvmGFAIxJt4" />
 
         <activity
-            android:name="itchetumal.edu.mx.serviciosocial.centroinnovacion.Activity_Metaio"
-            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.FullScreen" >
-        </activity>
-        <activity
             android:name="itchetumal.edu.mx.serviciosocial.centroinnovacion.Activity_Lugares"
             android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
             android:label="@string/app_name"
@@ -97,11 +91,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="itchetumal.edu.mx.serviciosocial.centroinnovacion.ARELViewActivity"
-            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
-            android:theme="@style/Theme.FullScreen" >
         </activity>
         <activity android:name="itchetumal.edu.mx.serviciosocial.centroinnovacion.CustomGeoPoiClickActivity" >
         </activity>
