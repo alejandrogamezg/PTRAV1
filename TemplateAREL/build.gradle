@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 
 dependencies {
     compile fileTree(dir: 'libs', include: '*.jar')
-    compile project(':MetaioSDK')
     compile 'com.android.support:support-v4:21.0.2'
     compile 'com.google.android.gms:play-services:+'
     compile project(':vision_sdk')
