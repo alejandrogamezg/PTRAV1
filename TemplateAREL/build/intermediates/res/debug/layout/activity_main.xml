@@ -44,7 +44,7 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/launch"
+            android:id="@+id/btnIniciar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/bt_normal"
@@ -57,6 +57,16 @@
             android:layout_marginRight="10dp"
             android:layout_centerVertical="true"
             android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Launch"
+            android:id="@+id/launch"
+            android:layout_gravity="center_horizontal"
+            android:layout_alignTop="@+id/btnIniciar"
+            android:layout_toStartOf="@+id/btnIniciar"
+            android:layout_alignBottom="@+id/btnIniciar" />
 
     </RelativeLayout>
 </RelativeLayout><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/layout/activity_main.xml -->

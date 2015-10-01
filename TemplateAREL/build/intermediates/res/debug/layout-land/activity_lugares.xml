@@ -4,91 +4,133 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <RelativeLayout
-        android:orientation="vertical"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+    <TextView
+        android:layout_width="549dp"
+        android:layout_height="124dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Lugares Disponibles"
+        android:id="@+id/txtTituloLugares"
+        android:textSize="50dp"
+        android:background="#fff"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:layout_marginLeft="0dp"
         android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:weightSum="1"
-        android:id="@+id/linearLayout2"
-        android:background="#fff">
+        android:layout_centerHorizontal="true" />
 
-        <TextView
-            android:layout_width="549dp"
-            android:layout_height="124dp"
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Lugares Disponibles"
-            android:id="@+id/txtTituloLugares"
-            android:textSize="50dp"
-            android:background="#fff"
-            android:textColor="#000000"
-            android:textAlignment="center"
-            android:layout_marginLeft="0dp"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" />
-
-    </RelativeLayout>
-
-    <ScrollView
+    <HorizontalScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/scrollView"
-        android:layout_alignParentEnd="true"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/linearLayout2"
-        android:background="#fff">
+        android:background="#fff"
+        android:layout_below="@+id/txtTituloLugares">
 
         <RelativeLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:weightSum="1"
-            android:layout_alignParentStart="true"
-            android:layout_below="@+id/linearLayout2"
-            android:background="#fff">
+            android:background="#fff"
+            android:layout_below="@+id/txtTituloLugares"
+            android:layout_alignParentStart="true">
 
-            <ImageButton
-                android:layout_width="300dp"
-                android:layout_height="400dp"
-                android:id="@+id/imgMestizaje"
-                android:layout_weight="0.30"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentStart="true"
-                android:layout_marginStart="55dp"
-                android:src="@drawable/meztizaje"
-                android:background="#fff" />
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
 
-            <ImageButton
-                android:layout_width="300dp"
-                android:layout_height="400dp"
-                android:id="@+id/imgBandera"
-                android:layout_weight="0.30"
-                android:src="@drawable/bandera"
-                android:background="#fff"
-                android:layout_alignParentTop="true"
-                android:layout_toEndOf="@+id/imgMestizaje" />
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
 
-            <ImageButton
-                android:layout_width="300dp"
-                android:layout_height="400dp"
-                android:id="@+id/imgPescador"
-                android:layout_weight="0.30"
-                android:src="@drawable/pescador"
-                android:background="#fff"
-                android:layout_alignParentTop="true"
-                android:layout_toEndOf="@+id/imgRenacimiento" />
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imgBandera"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/bandera"
+                        android:background="#fff"
+                        android:layout_below="@+id/txtTituloLugares"
+                        android:layout_toStartOf="@+id/imgRenacimiento"
+                        android:layout_column="0" />
 
-            <ImageButton
-                android:layout_width="300dp"
-                android:layout_height="400dp"
-                android:id="@+id/imgRenacimiento"
-                android:layout_weight="0.30"
-                android:src="@drawable/renacimiento"
-                android:layout_alignParentTop="true"
-                android:layout_toEndOf="@+id/imgBandera" />
+                    <ImageButton
+                        android:layout_width="300dp"
+                        android:layout_height="400dp"
+                        android:id="@+id/imgRenacimiento"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/renacimiento"
+                        android:layout_alignParentBottom="true"
+                        android:layout_toEndOf="@+id/txtTituloLugares" />
+
+                    <ImageButton
+                        android:layout_width="300dp"
+                        android:layout_height="400dp"
+                        android:id="@+id/imgPescador"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/pescador"
+                        android:background="#fff"
+                        android:layout_alignParentBottom="true"
+                        android:layout_toEndOf="@+id/imgMestizaje" />
+
+                    <ImageButton
+                        android:layout_width="300dp"
+                        android:layout_height="400dp"
+                        android:id="@+id/imgMestizaje"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/meztizaje"
+                        android:background="#fff"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentStart="true" />
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageButton"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/bandera"
+                        android:background="#fff"
+                        android:layout_column="5"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentStart="true" />
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageButton2"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/bandera"
+                        android:background="#fff"
+                        android:layout_column="5"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentStart="true" />
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageButton3"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/bandera"
+                        android:background="#fff"
+                        android:layout_column="5"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentStart="true" />
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageButton4"
+                        android:layout_weight="0.30"
+                        android:src="@drawable/bandera"
+                        android:background="#fff"
+                        android:layout_column="5"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentStart="true" />
+                </TableRow>
+
+            </TableLayout>
 
         </RelativeLayout>
-    </ScrollView>
+    </HorizontalScrollView>
 
 </RelativeLayout><!-- From: file:/C:/Users/PC07/SERVICIO%20SOCIAL/Versiones/PTRAV1/TemplateAREL/res/layout-land/activity_lugares.xml -->

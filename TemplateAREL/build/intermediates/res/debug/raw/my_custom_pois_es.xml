@@ -1,6 +1,6 @@
 <pois>
     <!-- CONTIENE LOS LUGARES DISPONIBLES PARA MOSTRAR EN EL MAPA-->
-	<icons>
+    <icons>
     </icons>
     <poi poiIDStr="0001"
         poiLatitudeDouble="18.492573"
@@ -46,5 +46,48 @@
             <category poiCategoryIDStr="0001" />
         </categories>
     </poi>
-
+    <poi poiIDStr="0005"
+        poiLatitudeDouble="18.503342"
+        poiLongitudeDouble="-88.295588"
+        poiTitleStr="Monumento Al Meztizaje"
+        poiURLStr=""
+        poiSubtitleStr="Av de los Heroes,Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+    <poi poiIDStr="0006"
+        poiLatitudeDouble="18.504438"
+        poiLongitudeDouble="-88.315930"
+        poiTitleStr="Fuente Maya"
+        poiURLStr=""
+        poiSubtitleStr="Av Efraín Aguilar,Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+    <poi poiIDStr="0007"
+        poiLatitudeDouble="18.519776"
+        poiLongitudeDouble="-88.269775"
+        poiTitleStr="Fuente al Manati"
+        poiURLStr=""
+        poiSubtitleStr="Boulevard Bahía, Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
+    <poi poiIDStr="0008"
+        poiLatitudeDouble="18.519776"
+        poiLongitudeDouble="-88.269775"
+        poiTitleStr="Museo del Faro"
+        poiURLStr=""
+        poiSubtitleStr="Boulevard Bahía, Chetumal, Q.R."
+        poiRating="7">
+        <categories>
+            <category poiCategoryIDStr="0001" />
+        </categories>
+    </poi>
 </pois>

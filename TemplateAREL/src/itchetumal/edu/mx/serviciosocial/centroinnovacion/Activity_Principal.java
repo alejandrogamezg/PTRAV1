@@ -2,31 +2,26 @@ package itchetumal.edu.mx.serviciosocial.centroinnovacion;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.os.Bundle;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.app.Activity;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
-import android.widget.Toast;
+import android.widget.TextView;
+
 
 import com.geomobile.arcore.VisionConfiguration;
 import com.geomobile.arcore.VisionCore;
-import com.geomobile.arcore.model.VisionCategory;
-import com.geomobile.arcore.model.VisionGeoPoi;
-import com.geomobile.arcore.model.VisionGeoPoiClickListener;
-import com.geomobile.arcore.model.VisionImage;
+import com.geomobile.arcore.utils.VisionUtils;
 
 
 
 public class Activity_Principal extends Activity implements OnClickListener {
-    //Variables a utilizar
+	private LinearLayout b_back;
+	private CustomGeoPoi poi;
+	//Variables a utilizar
 	private ProgressBar progress;
 	public Boolean custom = true;
 	private DataSource data = DataSource.DEFAULT_FILES;
@@ -36,12 +31,15 @@ public class Activity_Principal extends Activity implements OnClickListener {
 	private Boolean teleport = true;
 	private Language lan=Language.ES;
 	private Button bt_launch;
-
+	private Button btnIniciarAplicacion;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		btnIniciarAplicacion=(Button)findViewById(R.id.btnIniciar);
+		btnIniciarAplicacion.setOnClickListener(this);
 
 
 		progress=(ProgressBar)this.findViewById(R.id.progressBar);
@@ -50,10 +48,15 @@ public class Activity_Principal extends Activity implements OnClickListener {
 
 
 	}
+
 	@Override
 	public void onClick(View v) {
-		// TODO Auto-generated method stub
-		if (v == bt_launch) {
+
+		if (v == btnIniciarAplicacion){
+				Intent myIntent1 = new Intent(this, Activity_Lugares.class);
+				startActivity(myIntent1);
+		}
+		if(v == bt_launch) {
 			if (custom) {
 				new VisionCore(this.getApplicationContext(), false);
 				VisionCore.core.ar=new MyARManager(map,list,teleport);
@@ -162,3 +165,4 @@ public class Activity_Principal extends Activity implements OnClickListener {
 		}
 	}
 }
+
