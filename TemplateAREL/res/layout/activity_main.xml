@@ -55,8 +55,9 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:layout_centerVertical="true"
-            android:layout_centerHorizontal="true" />
+            android:layout_alignTop="@+id/launch"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="435dp" />
 
         <Button
             android:layout_width="wrap_content"
@@ -64,9 +65,35 @@
             android:text="Launch"
             android:id="@+id/launch"
             android:layout_gravity="center_horizontal"
-            android:layout_alignTop="@+id/btnIniciar"
+            android:layout_alignParentTop="true"
             android:layout_toStartOf="@+id/btnIniciar"
-            android:layout_alignBottom="@+id/btnIniciar" />
+            android:layout_marginEnd="135dp"
+            android:layout_marginTop="110dp" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton5"
+            android:background="@drawable/boton_ar"
+            android:layout_marginStart="153dp"
+            android:layout_alignTop="@+id/imageButton9"
+            android:layout_toEndOf="@+id/linearLayout" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton9"
+            android:background="@drawable/boton_map"
+            android:layout_below="@+id/launch"
+            android:layout_alignEnd="@+id/launch" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton10"
+            android:background="@drawable/boton_info"
+            android:layout_alignTop="@+id/imageButton9"
+            android:layout_alignStart="@+id/btnIniciar" />
 
     </RelativeLayout>
 </RelativeLayout>

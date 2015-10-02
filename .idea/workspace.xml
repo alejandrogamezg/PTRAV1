@@ -7,6 +7,7 @@
           <device id="Nexus 10" />
           <device id="tv_1080p" />
         </devices>
+        <target>android-17</target>
       </config>
     </shared>
     <layouts>
@@ -22,69 +23,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcd6c8dc-3453-4f0a-be10-dbdaa922b8a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/20130405_GM_LIB_Vision_SDK_ofuscated_v1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_ads_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_analytics_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_appstate_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_base_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_cast_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_drive_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_fitness_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_games_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_gcm_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_identity_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_location_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_maps_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_nearby_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_panorama_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_plus_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_safetynet_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_wallet_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_wearable_7_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\PTRAV1\TemplateAREL\build\intermediates\res\debug\layout\activity_principal.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PC07\SERVICIO SOCIAL\Versiones\PTRAV1\TemplateAREL\res\layout\activity_principal.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Lugares.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Lugares.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal$1.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal$LoadCustomDataTask.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal$LoadCustomDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal$LoadDataTask.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal$LoadDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoi.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoiClickActivity.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoiClickActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Lugar_Informacion.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/Lugar_Informacion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R$id.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R$integer.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R$layout.class" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/classes/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R$layout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/boton_ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/boton_ar_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/boton_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/boton_info_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/boton_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/boton_map_select.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/outputs/apk/Template-debug-unaligned.apk" afterPath="$PROJECT_DIR$/TemplateAREL/build/outputs/apk/Template-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/outputs/apk/Template-debug.apk" afterPath="$PROJECT_DIR$/TemplateAREL/build/outputs/apk/Template-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/dex/debug/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal.java" afterPath="$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/AndroidManifest.xml" afterPath="$PROJECT_DIR$/TemplateAREL/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoiClickActivity.java" afterPath="$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoiClickActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/generated/source/r/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R.java" afterPath="$PROJECT_DIR$/TemplateAREL/build/generated/source/r/debug/itchetumal/edu/mx/serviciosocial/centroinnovacion/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout/activity_custom_poi_click.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout/activity_custom_poi_click.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/res/layout/activity_custom_poi_click.xml" afterPath="$PROJECT_DIR$/TemplateAREL/res/layout/activity_custom_poi_click.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout/activity_lugares.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout/activity_lugares.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout-land/activity_lugares.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout-land/activity_lugares.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/res/layout/activity_lugares.xml" afterPath="$PROJECT_DIR$/TemplateAREL/res/layout/activity_lugares.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/res/layout-land/activity_lugares.xml" afterPath="$PROJECT_DIR$/TemplateAREL/res/layout-land/activity_lugares.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/TemplateAREL/build/intermediates/res/debug/raw/my_custom_pois_es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TemplateAREL/res/raw/my_custom_pois_es.xml" afterPath="$PROJECT_DIR$/TemplateAREL/res/raw/my_custom_pois_es.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PTRAV1.iws" />
@@ -106,54 +62,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml">
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
+              <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
               <folding />
             </state>
           </provider>
           <provider selected="true" editor-type-id="android-designer">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_lugares.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout/activity_lugares.xml">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_lugares.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout-land/activity_lugares.xml">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Activity_Lugares.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Lugares.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
           </provider>
         </entry>
       </file>
@@ -2658,11 +2576,11 @@
         <option value="$PROJECT_DIR$/TemplateAREL/res/raw/my_custom_pois_es.xml" />
         <option value="$PROJECT_DIR$/TemplateAREL/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/TemplateAREL/res/layout/activity_custom_poi_click.xml" />
-        <option value="$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/CustomGeoPoiClickActivity.java" />
         <option value="$PROJECT_DIR$/TemplateAREL/src/itchetumal/edu/mx/serviciosocial/centroinnovacion/Activity_Principal.java" />
         <option value="$PROJECT_DIR$/TemplateAREL/res/layout/activity_lugares.xml" />
         <option value="$PROJECT_DIR$/TemplateAREL/res/layout-land/activity_lugares.xml" />
+        <option value="$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -2698,52 +2616,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PTRAV1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PTRAV1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vision_sdk" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PTRAV1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vision_sdk" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PTRAV1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Template" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2816,6 +2689,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTRAV1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTRAV1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TemplateAREL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTRAV1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTRAV1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision_sdk" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTRAV1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision_sdk" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PTRAV1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Template" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -2838,12 +2778,13 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="43004b25b2e4c087" />
     <property name="FullScreen" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="168" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="491" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="244" />
   </component>
   <component name="RunManager" selected="Android Application.Template">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2858,7 +2799,8 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
@@ -2888,7 +2830,8 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
@@ -2980,6 +2923,7 @@
     <configuration default="false" name="Template" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="Template" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -2994,7 +2938,8 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
@@ -3037,38 +2982,47 @@
       <option name="number" value="Default" />
       <updated>1443141146826</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mehoramiento de los modulos de mapas e informacion">
+      <created>1443660964588</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1443660964588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961783" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17038217" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19440243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39968154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -3126,7 +3080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3156,7 +3109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3164,9 +3116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="58" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3182,9 +3131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3192,7 +3138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3211,7 +3156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3254,7 +3198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="157" column="59" selection-start-line="157" selection-start-column="59" selection-end-line="157" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3269,7 +3212,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3312,7 +3254,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="157" column="59" selection-start-line="157" selection-start-column="59" selection-end-line="157" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3320,7 +3261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3363,7 +3303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="157" column="59" selection-start-line="157" selection-start-column="59" selection-end-line="157" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3403,10 +3342,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TemplateAREL/res/drawable-hdpi/demo_vision_dropdown_bottomleftcorner.9.png">
-      <provider selected="true" editor-type-id="ninepatcheditor">
+      <provider editor-type-id="images">
         <state />
       </provider>
-      <provider editor-type-id="images">
+      <provider selected="true" editor-type-id="ninepatcheditor">
         <state />
       </provider>
     </entry>
@@ -3468,7 +3407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.1321499">
           <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3476,9 +3414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3486,7 +3421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20118344">
           <caret line="105" column="68" selection-start-line="105" selection-start-column="68" selection-end-line="105" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3494,20 +3428,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout-land/activity_lugares.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7801724">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
@@ -3522,10 +3452,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout-land/activity_lugares.xml">
+    <entry file="file://$PROJECT_DIR$/TemplateAREL/res/layout/activity_main.xml">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
           <folding />
         </state>
       </provider>
